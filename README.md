@@ -10,8 +10,8 @@
 [![Linkedin: Moises](https://img.shields.io/badge/-Moises-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Moises-p-singh/)](https://www.linkedin.com/in/moisespalacios/)
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Spring Boot**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Docker**. <br>
 
-- 📫 How to reach me **palacios.moises.dj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
