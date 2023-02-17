@@ -1,8 +1,11 @@
+<h1 align="center">Hi 👋, I'm Moises</h1>
+
 <div>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
-<h1 align="center">Hi 👋, I'm Moises</h1>
+
 <h3 align="center">A passionate back-end developer from Mexico</h3>
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Moises-p-singh/)](https://www.linkedin.com/in/moisespalacios/)
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -10,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mosiespalacios/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mosiespalacios/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mosiespalacios/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/palacios_moises1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="palacios_moises1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user1028i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user1028i" height="30" width="40" /></a>
 </p>
