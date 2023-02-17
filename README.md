@@ -7,7 +7,7 @@
 <h3 align="center">A passionate back-end developer from Mexico</h3>
 </em>
 
-[![Linkedin: Moises!](https://img.shields.io/badge/-Moises!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Moises-p-singh/)](https://www.linkedin.com/in/moisespalacios/)
+[![Linkedin: Moises!](https://img.shields.io/badge/-Moises-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Moises-p-singh/)](https://www.linkedin.com/in/moisespalacios/)
 
 - 🌱 I’m currently learning **Spring Boot**
 
