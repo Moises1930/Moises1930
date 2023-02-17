@@ -1,3 +1,6 @@
+<div>
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</div>
 <h1 align="center">Hi 👋, I'm Moises</h1>
 <h3 align="center">A passionate back-end developer from Mexico</h3>
 
