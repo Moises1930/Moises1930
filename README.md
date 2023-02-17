@@ -9,7 +9,7 @@
 
 [![Linkedin: Moises](https://img.shields.io/badge/-Moises-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Moises-p-singh/)](https://www.linkedin.com/in/moisespalacios/)
 
-- 🌱 I’m currently learning **Spring Boot**
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Spring Boot**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 
 - 📫 How to reach me **palacios.moises.dj@gmail.com**
 
