@@ -18,11 +18,6 @@
 <h4 align="left">Skills</h4>
 <p></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="https://img.shields.io/badge/javascript%20-%23007ACC.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/python%20-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/github/pipenv/python-version/sd/7?color=blue&label=Python&logo=python&style=for-the-badge">
-  
-<h5 align="left">Front-End</h5>
-<p><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></p>
 <h6 align="left">Back-end</h6>
 <p><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></p>
 <h7 align="left">Software</h7>
